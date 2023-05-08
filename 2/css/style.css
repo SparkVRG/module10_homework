@@ -1,0 +1,9 @@
+@import "reset.css";
+
+body {
+    height: 1000px;
+}
+
+button {
+    margin: 30px;
+}

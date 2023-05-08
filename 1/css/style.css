@@ -1,0 +1,22 @@
+@import "reset.css";
+
+.button {
+    border: none;
+    background: #315efb;
+    margin: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 200px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.button__text {
+    font-size: 18px;
+    color: white;
+}
+
+.button__icon {
+    color: white;
+}
